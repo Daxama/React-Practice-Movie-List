@@ -24,7 +24,7 @@ git clone https://github.com/Daxama/React-Practice-Movie-List.git
 2. Navigate to the project folder
 
 ```bash
-cd React-Practice-Movie-List
+cd React-Practice-Movie-List/frontend
 ```
 
 3. Install dependencies
@@ -33,13 +33,7 @@ cd React-Practice-Movie-List
 npm install
 ```
 
-4. Go into frontend
-
-```bash
-cd .\frontend\
-```
-
-5. Start the development server
+4. Start the development server
 
 ```bash
 npm run dev
