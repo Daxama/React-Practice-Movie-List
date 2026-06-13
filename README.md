@@ -1,4 +1,6 @@
-This is a React based project where you can manage a list of movies and favorites. This is meant to practice frontend concepts using React such as, state management, event handling, and API integration.
+# Movie List App
+
+This is a React based project meant to practice frontend concepts using React such as, state management, event handling, and API integration.
 
 ## Technologies Used
 
@@ -11,7 +13,8 @@ This is a React based project where you can manage a list of movies and favorite
 
 ## Project Status
 
-This project was meant as a learning experience. A live movie API was meant to be used, but required account sign up restrictions and information. It currently does
+This project was meant as a learning experience. A live movie API was meant to be used, but required account sign up restrictions and information. It is currently incomplete as a result.
+
 
 ## Installation
 
@@ -38,3 +41,16 @@ npm install
 ```bash
 npm run dev
 ```
+
+
+## What I learned
+- creating React components
+- Organizing a React project structure
+- Managing Application state
+- Handling user input and events
+
+## Author
+
+John Jones
+
+GitHub: https://github.com/Daxama
